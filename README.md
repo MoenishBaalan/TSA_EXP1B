@@ -3,7 +3,7 @@
 CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
 
-# Date: 
+# Date: 12.08.2025
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on Football goal scoring data
